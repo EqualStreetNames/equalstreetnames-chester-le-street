@@ -42,6 +42,7 @@ Hazelgrove,wikidata,,Q145889,way
 Hollycrest,wikidata,,Q117085,way
 "Katrine Close",wikidata,,Q1867269,way
 "Lambton Street",wikidata,,Q14955745,way
+"Lancaster Terrace",wikidata,,Q205905,way
 "Leven Avenue",wikidata,,Q2266807;Q1394301,way
 "Lilac Grove",wikidata,,Q6565319,way
 "Lindisfarne Avenue",wikidata,,Q213804,way
@@ -71,6 +72,7 @@ Maplewood,wikidata,,Q42292,way
 "Rydal Road",wikidata,,Q1544320,way
 "Second Avenue",wikidata,,Q28469712,way
 "Seventh Avenue",wikidata,,Q28469717,way
+"Sheelin Avenue",wikidata,,Q959556,way
 "Sidlaw Avenue",wikidata,,Q3483311,way
 "Sixth Avenue",wikidata,,Q28469716,way
 "Strangford Avenue",wikidata,,Q937070,way
@@ -97,6 +99,7 @@ Ashleigh,,,,way
 "Ashley Terrace",,,,way
 "Ashton Downe",,,,way
 "Ashton Rise",,,,way
+Ashwood,,,,way
 "Atkinson Road",,,,way
 Auckland,,,,way
 "Avondale Terrace",,,,way
@@ -142,6 +145,7 @@ Cherrybanks,,,,way
 "Coronation Street",,,,way
 Cragside,,,,way
 "Crichton Avenue",,,,way
+"Dene Villas",,,,way
 "Dovecote Drive",,,,way
 "Dovecote Farm",,,,way
 "Eardulph Avenue",,,,way
@@ -163,8 +167,10 @@ Firtrees,,,,way
 "Glenview Close",,,,way
 "Grange Terrace",,,,way
 "Gray Avenue",,,,way
+"Greenbank Terrace",,,,way
 "Greenbank street",,,,way
 "Hawes Avenue",,,,way
+"Hawthorn Terrace",,,,way
 "Hedworth Street",,,,way
 "Hemel Street",,,,way
 "Henley Avenue",,,,way
@@ -186,7 +192,6 @@ Hillside,,,,way
 "Kensington Way",,,,way
 "Kinloch Court",,,,way
 "Lambton Bridge",,,,way
-"Lancaster Terrace",,,,way
 "Larwood Court",,,,way
 "Laurel Court",,,,way
 "Lindom Avenue",,,,way
@@ -246,7 +251,6 @@ Oaklea,,,,way
 "Ruskin Avenue",,,,way
 "Salisbury Avenue",,,,way
 "Sanders Memorial Homes",,,,way
-"Sheelin Avenue",,,,way
 "Shelley Court",,,,way
 "Shelley Gardens",,,,way
 "Shields Road",,,,way
@@ -276,6 +280,7 @@ Sycamore,,,,way
 "The Oval",,,,way
 "The Parks",,,,way
 "The Stellas",,,,way
+"The View",,,,way
 "Thomas Street",,,,way
 "Tuart Street",,,,way
 "Twizzel Burn Walk",,,,way
