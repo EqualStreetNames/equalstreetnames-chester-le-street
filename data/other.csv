@@ -1,6 +1,7 @@
 name,source,gender,wikidata,type
 "Alpine Court",wikidata,,Q1286,way
 "Bassenthwaite Avenue",wikidata,,Q810498,way
+Beechwoods,wikidata,,Q311345,way
 "Belsay Close",wikidata,,Q2490155,way
 Brantwood,wikidata,,Q4957701,way
 "Buttermere Close",wikidata,,Q1018122,way
@@ -9,6 +10,7 @@ Brantwood,wikidata,,Q4957701,way
 "Carlingford Road",wikidata,,Q2369538,way
 "Carrowmore Road",wikidata,,Q2849701,way
 "Cherrytree Road",wikidata,,Q196,way
+"Chester Burn Close",wikidata,,Q5160357,way
 "Chester Moor roundabout",wikidata,,Q5093664,way
 "Chester Road",wikidata,,Q2570025,way
 "Cheviot Road",wikidata,,Q383335,way
@@ -21,6 +23,7 @@ Delaval,wikidata,,Q3021481,way
 "Derwentwater Avenue",wikidata,,Q934551,way
 "Dunvegan Avenue",wikidata,,Q747568,way
 "Durham Road",wikidata,,Q179815,way
+"East Avenue",wikidata,,Q684,way
 "Eighth Avenue",wikidata,,Q28469718,way
 "Eleventh Avenue",wikidata,,Q28469721,way
 "Elm Street",wikidata,,Q131113,way
@@ -41,23 +44,31 @@ Graythwaite,wikidata,,Q5598441,way
 Hazelgrove,wikidata,,Q145889,way
 Hollycrest,wikidata,,Q117085,way
 "Katrine Close",wikidata,,Q1867269,way
+"Kensington Way",wikidata,,Q207385,way
 "Lambton Street",wikidata,,Q14955745,way
 "Lancaster Terrace",wikidata,,Q205905,way
+"Laurel Court",wikidata,,Q26006,way
 "Leven Avenue",wikidata,,Q2266807;Q1394301,way
 "Lilac Grove",wikidata,,Q6565319,way
 "Lindisfarne Avenue",wikidata,,Q213804,way
 "Lomond Place",wikidata,,Q208926,way
 "Loweswater Avenue",wikidata,,Q849502,way
 "Lowther Avenue",wikidata,,Q6694187,way
+"Lumley New Road",wikidata,,Q751587,way
 "Malvern Avenue",wikidata,,Q1577855,way
 Maplewood,wikidata,,Q42292,way
 "Mendip Avenue",wikidata,,Q1920360,way
 "Moorfoot Avenue",wikidata,,Q6908381,way
 "Newcastle Road",wikidata,,Q1425428,way
 "Ninth Avenue",wikidata,,Q28469719,way
+Oaklea,wikidata,,Q12004,way
 "Orchard Gardens",wikidata,,Q236371,way
 "Orchard Terrace",wikidata,,Q236371,way
+"Pelaw Avenue",wikidata,,Q7568195,way
 "Pelaw Bank",wikidata,,Q7568195,way
+"Pelaw Crescent",wikidata,,Q7568195,way
+"Pelaw Road",wikidata,,Q7568195,way
+"Pelaw Square",wikidata,,Q7568195,way
 "Pelton Fell Road",wikidata,,Q7161762,way
 "Pelton Lane",wikidata,,Q7161759,way
 "Pennine Avenue",wikidata,,Q35647,way
@@ -75,16 +86,24 @@ Maplewood,wikidata,,Q42292,way
 "Sheelin Avenue",wikidata,,Q959556,way
 "Sidlaw Avenue",wikidata,,Q3483311,way
 "Sixth Avenue",wikidata,,Q28469716,way
+"South Street",wikidata,,Q667,way
+"South View",wikidata,,Q667,way
+"Station Lane",wikidata,,Q105044231,way
 "Strangford Avenue",wikidata,,Q937070,way
+Sycamore,wikidata,,Q156944,way
 "Tenth Avenue",wikidata,,Q28469720,way
+"The Crescent",wikidata,,Q5488888,way
 "Third Avenue",wikidata,,Q28469713,way
 "Thirlmere Avenue",wikidata,,Q1480464,way
 "Tudor Road",wikidata,,Q101978,way
 "Twelfth Avenue",wikidata,,Q28469722,way
 "Ullswater Road",wikidata,,Q1973568,way
 "Waldridge Lane",wikidata,,Q2330292,way
+"Waldridge Link Road",wikidata,,Q2330292,way
 "Waldridge Road",wikidata,,Q2330292,way
 "Wear Street",wikidata,,Q1433715,way
+"West Avenue",wikidata,,Q679,way
+"West Lane",wikidata,,Q679,way
 Willowvale,wikidata,,Q36050,way
 "Windermere Avenue",wikidata,,Q390370,way
 Wynyard,wikidata,,Q8040269,way
@@ -104,7 +123,6 @@ Ashwood,,,,way
 Auckland,,,,way
 "Avondale Terrace",,,,way
 "Baden Street",,,,way
-Beechwoods,,,,way
 "Benson Street",,,,way
 "Beverley Gardens",,,,way
 "Blencathra Way",,,,way
@@ -122,13 +140,13 @@ Broadway,,,,way
 "Broadwood View",,,,way
 "Bullion Lane",,,,way
 "Burnthouse Bank",,,,way
+"Busty View",,,,way
 "Cartmel Court",,,,way
 "Castle Close",,,,way
 "Castle Riggs",,,,way
 "Castle View",,,,way
 Cedars,,,,way
 Cherrybanks,,,,way
-"Chester Burn Close",,,,way
 "Church Chare",,,,way
 "Clarence Terrace",,,,way
 "Clifford Street",,,,way
@@ -143,6 +161,7 @@ Cherrybanks,,,,way
 "Conyers Road",,,,way
 "Cookson Terrace",,,,way
 "Coronation Street",,,,way
+"Coronation Terrace",,,,way
 Cragside,,,,way
 "Crichton Avenue",,,,way
 "Dene Villas",,,,way
@@ -150,9 +169,9 @@ Cragside,,,,way
 "Dovecote Farm",,,,way
 "Eardulph Avenue",,,,way
 "Earnest Terrace",,,,way
-"East Avenue",,,,way
 "Edward Street",,,,way
 "Elvet Green",,,,way
+"Ennerdale Place",,,,way
 "Fell Road",,,,way
 Fellway,,,,way
 "Ferndene Avenue",,,,way
@@ -181,20 +200,18 @@ Firtrees,,,,way
 "Highfield Crescent",,,,way
 "Highfield Gardens",,,,way
 "Highfield Rise",,,,way
-"Hilda Park",,,,way
 Hillside,,,,way
 "Holmhill Lane",,,,way
 "Holmlands Park",,,,way
 "Hopgarth Gardens",,,,way
 "Hutton Close",,,,way
+"Ivanhoe Terrace",,,,way
 "Jacques Terrace",,,,way
 "Jarola Court",,,,way
 "Jolliffe Street",,,,way
-"Kensington Way",,,,way
 "Kinloch Court",,,,way
 "Lambton Bridge",,,,way
 "Larwood Court",,,,way
-"Laurel Court",,,,way
 "Lindom Avenue",,,,way
 Lingholme,,,,way
 "Little Burn Way",,,,way
@@ -202,7 +219,6 @@ Lingholme,,,,way
 "Low Chare",,,,way
 "Lucy Street",,,,way
 "Lumley Close",,,,way
-"Lumley New Road",,,,way
 "Lumley Terrace",,,,way
 "Lynn Street",,,,way
 "Mains Park Road",,,,way
@@ -222,25 +238,23 @@ Myrtles,,,,way
 Northlands,,,,way
 "Northlands Roundabout",,,,way
 "Oakdale Terrace",,,,way
-Oaklea,,,,way
 "Osborne Road",,,,way
 "Park Place",,,,way
 "Park Road Central",,,,way
 "Park Road North",,,,way
 "Park Road South",,,,way
-"Pelaw Avenue",,,,way
-"Pelaw Crescent",,,,way
 "Pelaw Place",,,,way
-"Pelaw Road",,,,way
-"Pelaw Square",,,,way
 "Picktree Cottages",,,,way
+"Picktree Cottages East",,,,way
 "Picktree Lane",,,,way
+"Picktree Terrace",,,,way
 "Plantagenet Avenue",,,,way
 "Plunkett Terrace",,,,way
 "Poets Drive",,,,way
 "Prospect Street",,,,way
 "Queen's Park",,,,way
 "Ramsey Street",,,,way
+"Red Rose Terrace",,,,way
 "Redesdale Road",,,,way
 "Relton Terrace",,,,way
 "Ridley Avenue",,,,way
@@ -257,28 +271,24 @@ Oaklea,,,,way
 "Shields Road",,,,way
 "South Approach",,,,way
 "South Burns",,,,way
-"South Street",,,,way
-"South View",,,,way
 Springfield,,,,way
 "Springfield Gardens",,,,way
 "St Cuthberts Walk Shopping Centre",,,,way
 "St Marys Close",,,,way
 "Stanley Terrace",,,,way
-"Station Lane",,,,way
 "Station Road",,,,way
 "Station View",,,,way
-Sycamore,,,,way
 "Tennyson Road",,,,way
 "The Anchorage",,,,way
 "The Avenue",,,,way
 "The Close",,,,way
 "The Close East",,,,way
-"The Crescent",,,,way
 "The Dene",,,,way
 "The Gardens",,,,way
 "The Green",,,,way
 "The Orchard",,,,way
 "The Oval",,,,way
+"The Parade",,,,way
 "The Parks",,,,way
 "The Stellas",,,,way
 "The View",,,,way
@@ -291,11 +301,8 @@ Viador,,,,way
 "Victor Street",,,,way
 "Villiers Place",,,,way
 "Vivian Crescent",,,,way
-"Waldridge Link Road",,,,way
 "Wark Street",,,,way
 "Weldon Terrace",,,,way
-"West Avenue",,,,way
-"West Lane",,,,way
 "West View",,,,way
 Westray,,,,way
 "Westwood Terrace",,,,way
