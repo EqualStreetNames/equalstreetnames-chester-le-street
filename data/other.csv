@@ -1,9 +1,11 @@
 name,source,gender,wikidata,type
 "Alpine Court",wikidata,,Q1286,way
+Auckland,wikidata,,Q4819493,way
 "Bassenthwaite Avenue",wikidata,,Q810498,way
 Beechwoods,wikidata,,Q311345,way
 "Belsay Close",wikidata,,Q2490155,way
 Brantwood,wikidata,,Q4957701,way
+Brinkburn,wikidata,,Q4968406,way
 "Buttermere Close",wikidata,,Q1018122,way
 "Camperdown Avenue",wikidata,,Q23887794,way
 "Caragh Road",wikidata,,Q2321463,way
@@ -18,6 +20,7 @@ Brantwood,wikidata,,Q4957701,way
 "Cleveland Avenue",wikidata,,Q5132159,way
 "Coniston Close",wikidata,,Q1126099,way
 "Cotswold Avenue",wikidata,,Q301833,way
+Cragside,wikidata,,Q5180627,way
 "Cumbrian Avenue",wikidata,,Q23066,way
 Delaval,wikidata,,Q3021481,way
 "Derwentwater Avenue",wikidata,,Q934551,way
@@ -29,6 +32,7 @@ Delaval,wikidata,,Q3021481,way
 "Elm Street",wikidata,,Q131113,way
 Elmway,wikidata,,Q131113,way
 "Elterwater Road",wikidata,,Q1543979,way
+"Ennerdale Place",wikidata,,Q649329,way
 "Esthwaite Avenue",wikidata,,Q821474,way
 "Fife Avenue",wikidata,,Q201149,way
 "Fifth Avenue",wikidata,,Q28469715,way
@@ -41,6 +45,7 @@ Gibside,wikidata,,Q5559250,way
 "Grasmere Road",wikidata,,Q1543485,way
 Graythwaite,wikidata,,Q5598441,way
 "Hambledon Avenue",wikidata,,Q5644220,way
+"Hawes Avenue",wikidata,,Q1480495,way
 Hazelgrove,wikidata,,Q145889,way
 Hollycrest,wikidata,,Q117085,way
 "Katrine Close",wikidata,,Q1867269,way
@@ -61,6 +66,7 @@ Maplewood,wikidata,,Q42292,way
 "Moorfoot Avenue",wikidata,,Q6908381,way
 "Newcastle Road",wikidata,,Q1425428,way
 "Ninth Avenue",wikidata,,Q28469719,way
+"North Road",wikidata,,Q659,way
 Oaklea,wikidata,,Q12004,way
 "Orchard Gardens",wikidata,,Q236371,way
 "Orchard Terrace",wikidata,,Q236371,way
@@ -89,6 +95,7 @@ Oaklea,wikidata,,Q12004,way
 "South Street",wikidata,,Q667,way
 "South View",wikidata,,Q667,way
 "Station Lane",wikidata,,Q105044231,way
+"Station Road",wikidata,,Q2642125,way
 "Strangford Avenue",wikidata,,Q937070,way
 Sycamore,wikidata,,Q156944,way
 "Tenth Avenue",wikidata,,Q28469720,way
@@ -104,6 +111,8 @@ Sycamore,wikidata,,Q156944,way
 "Wear Street",wikidata,,Q1433715,way
 "West Avenue",wikidata,,Q679,way
 "West Lane",wikidata,,Q679,way
+"West View",wikidata,,Q679,way
+Westray,wikidata,,Q1506018,way
 Willowvale,wikidata,,Q36050,way
 "Windermere Avenue",wikidata,,Q390370,way
 Wynyard,wikidata,,Q8040269,way
@@ -120,7 +129,6 @@ Ashleigh,,,,way
 "Ashton Rise",,,,way
 Ashwood,,,,way
 "Atkinson Road",,,,way
-Auckland,,,,way
 "Avondale Terrace",,,,way
 "Baden Street",,,,way
 "Benson Street",,,,way
@@ -135,7 +143,6 @@ Auckland,,,,way
 Briarhill,,,,way
 "Briarwood Avenue",,,,way
 "Bridge End",,,,way
-Brinkburn,,,,way
 Broadway,,,,way
 "Broadwood View",,,,way
 "Bullion Lane",,,,way
@@ -162,7 +169,6 @@ Cherrybanks,,,,way
 "Cookson Terrace",,,,way
 "Coronation Street",,,,way
 "Coronation Terrace",,,,way
-Cragside,,,,way
 "Crichton Avenue",,,,way
 "Dene Villas",,,,way
 "Dovecote Drive",,,,way
@@ -171,7 +177,6 @@ Cragside,,,,way
 "Earnest Terrace",,,,way
 "Edward Street",,,,way
 "Elvet Green",,,,way
-"Ennerdale Place",,,,way
 "Fell Road",,,,way
 Fellway,,,,way
 "Ferndene Avenue",,,,way
@@ -189,7 +194,6 @@ Firtrees,,,,way
 "Gray Avenue",,,,way
 "Greenbank Terrace",,,,way
 "Greenbank street",,,,way
-"Hawes Avenue",,,,way
 "Hawthorn Terrace",,,,way
 "Hedworth Street",,,,way
 "Hemel Street",,,,way
@@ -234,7 +238,6 @@ Myrtles,,,,way
 "Nelson Street",,,,way
 "North Approach",,,,way
 "North Burns",,,,way
-"North Road",,,,way
 Northlands,,,,way
 "Northlands Roundabout",,,,way
 "Oakdale Terrace",,,,way
@@ -276,7 +279,6 @@ Springfield,,,,way
 "St Cuthberts Walk Shopping Centre",,,,way
 "St Marys Close",,,,way
 "Stanley Terrace",,,,way
-"Station Road",,,,way
 "Station View",,,,way
 "Tennyson Road",,,,way
 "The Anchorage",,,,way
@@ -303,8 +305,6 @@ Viador,,,,way
 "Vivian Crescent",,,,way
 "Wark Street",,,,way
 "Weldon Terrace",,,,way
-"West View",,,,way
-Westray,,,,way
 "Westwood Terrace",,,,way
 "Westwood View",,,,way
 "Whitehill Hall Gardens",,,,way
