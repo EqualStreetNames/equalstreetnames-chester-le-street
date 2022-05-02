@@ -87,6 +87,7 @@ Oaklea,wikidata,,Q12004,way
 "Ripon Street",wikidata,,Q661529,way
 "Rosewood Gardens",wikidata,,Q122421,way
 "Rydal Road",wikidata,,Q1544320,way
+"Sandringham Way",wikidata,,Q935116,way
 "Second Avenue",wikidata,,Q28469712,way
 "Seventh Avenue",wikidata,,Q28469717,way
 "Sheelin Avenue",wikidata,,Q959556,way
@@ -131,6 +132,7 @@ Ashwood,,,,way
 "Atkinson Road",,,,way
 "Avondale Terrace",,,,way
 "Baden Street",,,,way
+"Battery Path",,,,way
 "Benson Street",,,,way
 "Beverley Gardens",,,,way
 "Blencathra Way",,,,way
@@ -146,6 +148,7 @@ Briarhill,,,,way
 Broadway,,,,way
 "Broadwood View",,,,way
 "Bullion Lane",,,,way
+"Burnlands Way",,,,way
 "Burnthouse Bank",,,,way
 "Busty View",,,,way
 "Cartmel Court",,,,way
@@ -159,7 +162,6 @@ Cherrybanks,,,,way
 "Clifford Street",,,,way
 "Clifford Terrace",,,,way
 "Co-operative Street",,,,way
-"Coleridge Place",,,,way
 "Cone Terrace",,,,way
 "Cong Burn View",,,,way
 "Conyers Avenue",,,,way
@@ -183,7 +185,6 @@ Fellway,,,,way
 "Finchdale Terrace",,,,way
 Firtrees,,,,way
 "Front Street",,,,way
-"Gardiner Crescent",,,,way
 "George Street",,,,way
 "Glen Barr",,,,way
 "Glenavon Avenue",,,,way
@@ -194,10 +195,10 @@ Firtrees,,,,way
 "Gray Avenue",,,,way
 "Greenbank Terrace",,,,way
 "Greenbank street",,,,way
+"Greenland Mews",,,,way
 "Hawthorn Terrace",,,,way
 "Hedworth Street",,,,way
 "Hemel Street",,,,way
-"Henley Avenue",,,,way
 "Hermitage Gardens",,,,way
 "Hermitage Park",,,,way
 "High Chare",,,,way
@@ -226,6 +227,7 @@ Lingholme,,,,way
 "Lumley Terrace",,,,way
 "Lynn Street",,,,way
 "Mains Park Road",,,,way
+Masefields,,,,way
 "Melville Street",,,,way
 "Middle Chare",,,,way
 "Milburn Close",,,,way
@@ -266,11 +268,9 @@ Northlands,,,,way
 "Roman Avenue",,,,way
 "Ropery Lane",,,,way
 "Roseberry Villas",,,,way
-"Ruskin Avenue",,,,way
 "Salisbury Avenue",,,,way
 "Sanders Memorial Homes",,,,way
 "Shelley Court",,,,way
-"Shelley Gardens",,,,way
 "Shields Road",,,,way
 "South Approach",,,,way
 "South Burns",,,,way
@@ -280,7 +280,6 @@ Springfield,,,,way
 "St Marys Close",,,,way
 "Stanley Terrace",,,,way
 "Station View",,,,way
-"Tennyson Road",,,,way
 "The Anchorage",,,,way
 "The Avenue",,,,way
 "The Close",,,,way
@@ -312,4 +311,3 @@ Viador,,,,way
 "Wilfred Street",,,,way
 "William Street",,,,way
 Woodlands,,,,way
-"Wordsworth Avenue",,,,way
